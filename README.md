@@ -7,8 +7,14 @@
 - Оперативная память: 4 ГБ.
 - Жесткий диск: 20 ГБ свободного места.
 
+
 ### Шаг 1: Установка Docker
-1. Установите Docker на вашу систему, следуя официальной документации Docker: [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/)
+Выберите соответствующую ссылку для вашей операционной системы и следуйте указанным инструкциям, чтобы установить Docker:
+
+- Для Linux: [Инструкции по установке Docker для Linux](https://docs.docker.com/engine/install/)
+- Для Windows: [Инструкции по установке Docker для Windows](https://docs.docker.com/docker-for-windows/install/)
+- Для macOS: [Инструкции по установке Docker для macOS](https://docs.docker.com/docker-for-mac/install/)
+
 
 ### Шаг 2: Загрузка репозитория Docker Hub
 1. Откройте командную строку или терминал на вашей системе.

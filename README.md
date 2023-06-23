@@ -34,7 +34,7 @@ git clone https://github.com/Maksat-luci/mdc-docker.git
     2. получите секретный токен перейдя на веб страницу https://app.mydatacoin.io во вкладке settings
 
     3. введите секретный токен в переменную AUTH_TOKEN
-        ![вот тут](https://imgur.com/a/0stQ9QT)
+        [Imgur](https://imgur.com/9UexOhN)
     
     4. Сохраните файл нажав комбинацию CTRL + X затем нажмите ENTER. 
 
